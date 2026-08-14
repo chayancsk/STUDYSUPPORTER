@@ -1,10 +1,8 @@
 streamlit
+torch --index-url https://download.pytorch.org/whl/cpu
+transformers
+sentence-transformers
 langchain
 langchain-community
 faiss-cpu
-sentence-transformers
-transformers
-torch
-huggingface-hub
 pypdf
-tiktoken
